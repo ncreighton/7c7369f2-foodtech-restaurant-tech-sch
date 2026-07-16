@@ -1,2 +1,46 @@
-# 7c7369f2-foodtech-restaurant-tech-sch
-Every foodtech professionals needs this — most just don't know it yet.  Rate limiting, authentication, and error handling built in from the start. RESTful JSON API with comprehensive documentation and code examples.  ## What's Included  - Foodtech &amp; Restaurant Tech Scheduling And Availability — fully configured and ready to use - RESTful JSON API w
+# FoodTech & Restaurant Tech Scheduling and Availability API
+
+> Api Product for Foodtech
+
+Every foodtech professionals needs this — most just don't know it yet.
+
+Rate limiting, authentication, and error handling built in from the start. RESTful JSON API with comprehensive documentation and code examples.
+
+## What's Included
+
+- Foodtech & Restaurant Tech Scheduling And Availability — fully configured and ready to use
+- RESTful JSON...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQ00j7r17Eog880VecZN0u)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
